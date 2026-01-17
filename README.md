@@ -16,6 +16,7 @@ University).
 
 * Python Imaging Library (https://pypi.org/project/pillow/)
 * Numpy library (https://numpy.org/)
+* tkinter Library (https://docs.python.org/3/library/tkinter.html)
 
 ### Installing
 
@@ -31,5 +32,10 @@ must be given the name "image1.jpg".
 
 * 0.1
     * Initial Release
+
+* 0.2
+    * Made performance improvements to kernel function
+    * Created GUI using tkinter
+    * Wrapped the application in an .exe for ease of use
 ## Demo
 ![](https://github.com/amandeepmaroke/imageprocessor/blob/main/image_processor_9000_demo.gif)
