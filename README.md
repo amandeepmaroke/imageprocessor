@@ -18,7 +18,11 @@ University).
 * Numpy library (https://numpy.org/)
 * tkinter Library (https://docs.python.org/3/library/tkinter.html)
 
-### Installing
+### Running the App
+
+The code can be run using one of the methods below:
+
+####1)  
 
 * Code can be accessed on my GitHub page: https://github.com/amandeepmaroke/
 * Images must be stored in the same directory as the source code, and 
