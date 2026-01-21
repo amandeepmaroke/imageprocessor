@@ -20,13 +20,14 @@ University).
 
 ### Running the App
 
-The code can be run using one of the methods below:
+The code can be run using one of the 2 methods below:
 
-####1)  
+1) Downloading the code and run it using your favourite Python interpreter, or
+2) Downloading and running the .exe (Windows only)    
 
 * Code can be accessed on my GitHub page: https://github.com/amandeepmaroke/
-* Images must be stored in the same directory as the source code, and 
-must be given the name "image1.jpg".
+* The current version of this app supports .jpg and .png image inputs and outputs images as .png files
+* A sample image is provided for testing purposes, but feel free to try the app with your own image files
 
 ## Authors
 
@@ -41,5 +42,3 @@ must be given the name "image1.jpg".
     * Made performance improvements to kernel function
     * Created GUI using tkinter
     * Wrapped the application in an .exe for ease of use
-## Demo
-![](https://github.com/amandeepmaroke/imageprocessor/blob/main/image_processor_9000_demo.gif)
